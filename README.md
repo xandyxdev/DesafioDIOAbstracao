@@ -13,3 +13,5 @@ Inscrever em bootcamp
 Progredir nos conteúdos
 Separar conteúdos inscritos e concluídos
 Calcular XP total
+
+Autor : Alexandre Aragão
